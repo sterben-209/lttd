@@ -1,3 +1,4 @@
+//https://ntucoder.net/Problem/Details/2
 #include<iostream>
 
 using namespace std;
